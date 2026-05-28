@@ -1,2 +1,0 @@
-# MISA
-Semestral project
