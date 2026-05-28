@@ -1,0 +1,12 @@
+# Конфигурация с паролями — НЕ коммитить!
+config.h
+
+# Arduino build files
+build/
+*.elf
+*.bin
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
